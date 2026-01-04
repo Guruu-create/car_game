@@ -1,0 +1,9 @@
+# Ignore PyCharm settings
+.idea/
+*.iml
+
+# Ignore Python compiled files
+_pycache_/
+
+# Ignore virtual environment (if you have one)
+venv/
